@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    color: red;
+    text-align: center;
+    font-size: 2rem;
+    padding: 20px;
+}
+
+body {
+    background-image: url("car-3z.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    color: rgb(14, 157, 33);
+    font-family: cursive;
+    padding: 20px;
+}
+
+.dev1, .dev2 {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+.dev2 {
+    background-image: url("555.avif");
+    background-size: cover;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.dev3 {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    padding: 10px;
+    background-color: rgb(187, 44, 5);
+    color: aqua;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+
+#foot1 {
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 10px;
+}

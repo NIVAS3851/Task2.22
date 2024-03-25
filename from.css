@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.c1 {
+    text-align: center;
+    font-weight: bolder;
+    color: springgreen;
+    border: 3px dotted black;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-image: url("car-3z.jpg");
+    background-size: cover;
+}
+
+#fd {
+    background-color: rebeccapurple;
+    background-image: url("555.avif");
+    background-size: cover;
+}
+
+.fi {
+    text-transform: lowercase;
+    margin: 10px;
+    max-width: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#bu1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#btn {
+    background-color: green;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.c33 {
+    background-image: url("555.avif");
+    background-size: cover;
+    background-color: black;
+    text-align: center;
+    color: chartreuse;
+    font-size: 4vw; 
+    border: 10px double rgb(6, 123, 146);
+}
+
+#yo {
+    color: chartreuse;
+}
+
+#name {
+    border: 2px dotted rgb(217, 255, 0);
+    border-radius: 80px;
+}
